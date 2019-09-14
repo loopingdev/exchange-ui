@@ -1,4 +1,4 @@
-# Rubykube New UI
+# Exchange New UI
 
 ## Installation steps
 
