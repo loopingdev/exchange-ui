@@ -2,8 +2,8 @@
 
 ## Installation steps
 
-1. `git clone https://github.com/adarshdubeytech/Rubykube-New-Ui`
-2. `cd Rubykube-New-Ui`
+1. `git clone https://github.com/edwinvyp/exchange-ui.git`
+2. `cd exchange-ui`
 3. `bundle install`
 4. Search for 'edwinvyp.com' in the repository and make sure you replace all instances of it with your domain
  ## Use This Command:
