@@ -8,6 +8,8 @@
 4. Search for 'edwinvyp.com' in the repository and make sure you replace all instances of it with your domain
  ## Use This Command:
  `find ./ -type f -exec sed -i -e 's/edwinvyp.com/yourdomain.com/g' {} \;`
+ 'find ./ -type f -exec sed -i -e 's/KoinFit/namaexchange/g' {} \;`'
+
 
 5. `chmod +x bin/*`
 6. `bin/setup`
